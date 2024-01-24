@@ -16,5 +16,5 @@
 
 ## API |
 
-https://github.com/zmh-program/admin-pages/blob/3d848315f6efded6c4388177be43667319cb9168/index.html#L371-L386
-https://github.com/zmh-program/admin-pages/blob/3d848315f6efded6c4388177be43667319cb9168/geoip.html#L190-L192
+https://github.com/Techcodeee/admin-pages/blob/3d848315f6efded6c4388177be43667319cb9168/index.html#L371-L386
+https://github.com/Techcodeee/admin-pages/blob/3d848315f6efded6c4388177be43667319cb9168/geoip.html#L190-L192
